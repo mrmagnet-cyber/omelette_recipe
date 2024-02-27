@@ -1,0 +1,20 @@
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+}
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+
+img{
+    width: 300px;
+    height: 150px;
+}
+
+body{
+    background-color: hsl(30, 54%, 90%);
+}
+
+.main-page{
+    background-color: hsl(0, 0%, 100%);
+}
